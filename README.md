@@ -1,7 +1,7 @@
 # Background_animation
 Для задачи дан только mp4 файл, остальное создано на персональный выбор
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  #  | Project                                                                                                                     | Live Example                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/Ready2BOOM/Background_animation/tree/main)                             | [Live Demo](https://ready2boom.github.io/Background_animation/)               |
+| 01  | [Animated Layout](https://github.com/Ready2BOOM/Background_animation/tree/main)                             | [Live Example](https://ready2boom.github.io/Background_animation/)               |
 
